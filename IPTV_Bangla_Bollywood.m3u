@@ -4,7 +4,7 @@
 # - free-to-air Bangladeshi channels
 # Premium channels (Star Jalsha / Zee Bangla / Sony / HBO) are NOT here:
 #   in Bangladesh they are legally available on Toffee (toffeelive.com)
-# TOTAL CHANNELS: 42
+# TOTAL CHANNELS: 43
 
 # ====== 🇧🇩 Bangla & Bollywood · ⚽ Sports (1) ======
 #EXTINF:-1 tvg-id="yt-UC2t9imwIR7xlDfma3CmRKJQ" tvg-name="T Sports [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · ⚽ Sports",T Sports [YT]
@@ -18,7 +18,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="🇧🇩 Bangla & Bollywood · 🎬 Movies",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-# ====== 🇧🇩 Bangla & Bollywood · 🎭 Entertainment (11) ======
+# ====== 🇧🇩 Bangla & Bollywood · 🎭 Entertainment (12) ======
+#EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-name="Aamar Bangla (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-name="Ananda TV (720p)" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Ananda TV (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-name="Bangla Vision (720p)" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Bangla Vision (720p)
@@ -49,17 +51,17 @@ http://live.playmax.live/matribhumi/index.m3u8
 # ====== 🇧🇩 Bangla & Bollywood · 📰 News (15) ======
 #EXTINF:-1 tvg-id="yt-UCbgcYEdMsuypG2NJ-znBp3w" tvg-name="ATN Bangla News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",ATN Bangla News [YT]
 https://www.youtube.com/channel/UCbgcYEdMsuypG2NJ-znBp3w/live
-#EXTINF:-1 tvg-id="yt-UC9Rgo0CrNyd7OWliLekqqGA" tvg-name="ATN News [YT]" tvg-logo="https://i.ytimg.com/vi/6mX8fUmi1z0/maxresdefault.jpg" group-title="🇧🇩 Bangla & Bollywood · 📰 News",ATN News [YT]
+#EXTINF:-1 tvg-id="yt-UC9Rgo0CrNyd7OWliLekqqGA" tvg-name="ATN News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",ATN News [YT]
 https://www.youtube.com/channel/UC9Rgo0CrNyd7OWliLekqqGA/live
-#EXTINF:-1 tvg-id="yt-UCUvXoiDEKI8VZJrr58g4VAw" tvg-name="DBC News [YT]" tvg-logo="https://i.ytimg.com/vi/k0rJ0g1Ez6I/maxresdefault.jpg" group-title="🇧🇩 Bangla & Bollywood · 📰 News",DBC News [YT]
+#EXTINF:-1 tvg-id="yt-UCUvXoiDEKI8VZJrr58g4VAw" tvg-name="DBC News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",DBC News [YT]
 https://www.youtube.com/channel/UCUvXoiDEKI8VZJrr58g4VAw/live
-#EXTINF:-1 tvg-id="yt-UCtqvtAVmad5zywaziN6CbfA" tvg-name="Ekattor TV [YT]" tvg-logo="https://i.ytimg.com/vi/fnIr_EbK6PM/maxresdefault.jpg" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Ekattor TV [YT]
+#EXTINF:-1 tvg-id="yt-UCtqvtAVmad5zywaziN6CbfA" tvg-name="Ekattor TV [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Ekattor TV [YT]
 https://www.youtube.com/channel/UCtqvtAVmad5zywaziN6CbfA/live
 #EXTINF:-1 tvg-id="EkusheyTV.bd@SD" tvg-name="Ekushey TV (480p)" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id="yt-UCATUkaOHwO9EP_W87zCiPbA" tvg-name="Independent Television [YT]" tvg-logo="https://i.ytimg.com/vi/iWq2kH0iq2Q/maxresdefault.jpg" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Independent Television [YT]
+#EXTINF:-1 tvg-id="yt-UCATUkaOHwO9EP_W87zCiPbA" tvg-name="Independent Television [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Independent Television [YT]
 https://www.youtube.com/channel/UCATUkaOHwO9EP_W87zCiPbA/live
-#EXTINF:-1 tvg-id="yt-UCN6sm8iHiPd0cnoUardDAnw" tvg-name="Jamuna TV [YT]" tvg-logo="https://i.ytimg.com/vi/UhtoArmJnYY/maxresdefault.jpg" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Jamuna TV [YT]
+#EXTINF:-1 tvg-id="yt-UCN6sm8iHiPd0cnoUardDAnw" tvg-name="Jamuna TV [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Jamuna TV [YT]
 https://www.youtube.com/channel/UCN6sm8iHiPd0cnoUardDAnw/live
 #EXTINF:-1 tvg-id="yt-UCHR-p802PibDYG1btNJcOew" tvg-name="Maasranga News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Maasranga News [YT]
 https://www.youtube.com/channel/UCHR-p802PibDYG1btNJcOew/live
@@ -75,7 +77,7 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 https://www.youtube.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw/live
 #EXTINF:-1 tvg-id="yt-UCD7oyc2QLn1K9WciN6t8ZEw" tvg-name="Shamol Bangla TV [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Shamol Bangla TV [YT]
 https://www.youtube.com/channel/UCD7oyc2QLn1K9WciN6t8ZEw/live
-#EXTINF:-1 tvg-id="yt-UCxHoBXkY88Tb8z1Ssj6CWsQ" tvg-name="SOMOY TV [YT]" tvg-logo="https://i.ytimg.com/vi/1na8me3DYKM/maxresdefault.jpg" group-title="🇧🇩 Bangla & Bollywood · 📰 News",SOMOY TV [YT]
+#EXTINF:-1 tvg-id="yt-UCxHoBXkY88Tb8z1Ssj6CWsQ" tvg-name="SOMOY TV [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",SOMOY TV [YT]
 https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/live
 
 # ====== 🇧🇩 Bangla & Bollywood · 🕌 Religious (2) ======

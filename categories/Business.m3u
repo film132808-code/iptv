@@ -1,5 +1,5 @@
 #EXTM3U
-# Business channels - 81 total
+# Business channels - 80 total
 # group-title="💼 Business"
 #EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-name="100% NEWS (576p)" tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="💼 Business",100% NEWS (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
@@ -31,7 +31,7 @@ https://jmp2.uk/stvp-KRBB500044GP
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-name="Bloomberg Originals SD (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="💼 Business",Bloomberg Originals SD (1080p)
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="yt-UCIALMKvObZNtJ6AmdCLP7Lg" tvg-name="Bloomberg Television" tvg-logo="https://i.ytimg.com/vi/QB5BNdBFujE/maxresdefault.jpg" group-title="💼 Business",Bloomberg Television
+#EXTINF:-1 tvg-id="yt-UCIALMKvObZNtJ6AmdCLP7Lg" tvg-name="Bloomberg Television" tvg-logo="" group-title="💼 Business",Bloomberg Television
 https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/live
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-name="Bloomberg TV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png" group-title="💼 Business",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/eu.m3u8
@@ -57,10 +57,10 @@ https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@PoliticsLiveEvent" tvg-name="Bloomberg TV Politics Live Event (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="💼 Business",Bloomberg TV Politics Live Event (720p)
 https://bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1 channel-id="ESBA3300024AJ-es" tvg-id="ESBA3300024AJ" tvg-chno="4577" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20260421T123714SQUARE.png" group-title="💼 Business",Bloomberg TV+
-https://jmp2.uk/stvp-ESBA3300024AJ
 #EXTINF:-1 channel-id="FR1400004VF-fr" tvg-id="FR1400004VF" tvg-chno="4574" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400004VF_20260421T123944SQUARE.png" group-title="💼 Business",Bloomberg TV+
 https://jmp2.uk/stvp-FR1400004VF
+#EXTINF:-1 channel-id="ESBA3300024AJ-es" tvg-id="ESBA3300024AJ" tvg-chno="4577" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20260421T123714SQUARE.png" group-title="💼 Business",Bloomberg TV+
+https://jmp2.uk/stvp-ESBA3300024AJ
 #EXTINF:-1 channel-id="61de8fa251cca800076dde41-se" tvg-id="61de8fa251cca800076dde41" tvg-chno="806" tvg-name="Bloomberg TV+" tvg-logo="https://images.pluto.tv/channels/61de8fa251cca800076dde41/colorLogoPNG.png" group-title="💼 Business",Bloomberg TV+
 https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8
 #EXTINF:-1 channel-id="61de8d4b8acf6c0007f1c2f3-no" tvg-id="61de8d4b8acf6c0007f1c2f3" tvg-chno="806" tvg-name="Bloomberg TV+" tvg-logo="https://images.pluto.tv/channels/61de8d4b8acf6c0007f1c2f3/colorLogoPNG.png" group-title="💼 Business",Bloomberg TV+
@@ -93,6 +93,8 @@ https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 https://jmp2.uk/stvp-ESBD36000026Z
 #EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-name="CNBC Arabiya (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="💼 Business",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@HD" tvg-name="CNBC Asia HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="💼 Business",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" tvg-name="CNBC Awaaz (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="💼 Business",CNBC Awaaz (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CNBCBajar.in@SD" tvg-name="CNBC Bajar (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" group-title="💼 Business",CNBC Bajar (1080p)
@@ -101,8 +103,6 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master
 https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCEurope.uk@SD" tvg-name="CNBC Europe (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="💼 Business",CNBC Europe (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-name="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" group-title="💼 Business",CNBC Indonesia
-https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC MGL" tvg-logo="" group-title="💼 Business",CNBC MGL
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 #EXTINF:-1 tvg-id="yt-UCrp_UI8XtuYfpiqluWLD7Lw" tvg-name="CNBC Television" tvg-logo="" group-title="💼 Business",CNBC Television
@@ -117,7 +117,7 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="💼 Business",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="yt-UCmRbHAgG2k2vDUvb3xsEunQ" tvg-name="CNBC-TV18" tvg-logo="https://i.ytimg.com/vi/-yIQiK5bp4s/maxresdefault.jpg" group-title="💼 Business",CNBC-TV18
+#EXTINF:-1 tvg-id="yt-UCmRbHAgG2k2vDUvb3xsEunQ" tvg-name="CNBC-TV18" tvg-logo="" group-title="💼 Business",CNBC-TV18
 https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ/live
 #EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-name="DeFiance Media (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" group-title="💼 Business",DeFiance Media (1080p)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
@@ -139,8 +139,6 @@ https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="NewsCapitalMarket.in@SD" tvg-name="News Capital Market (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png" group-title="💼 Business",News Capital Market (1080p)
 https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
-#EXTINF:-1 tvg-id="NWEconomie.tg@SD" tvg-name="NW Economie (576p)" tvg-logo="https://i.imgur.com/OmlFQa8.png" group-title="💼 Business",NW Economie (576p)
-https://hls.newworldtv.com/nw-economie/video/live.m3u8
 #EXTINF:-1 tvg-id="ONInfoTV.vn@SD" tvg-name="ON Info TV (1080p)" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png" group-title="💼 Business",ON Info TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:-1 tvg-id="ProBusiness.ru@SD" tvg-name="Pro Business (720p)" tvg-logo="https://i.imgur.com/1u8KvTD.png" group-title="💼 Business",Pro Business (720p)
