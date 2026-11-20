@@ -1,0 +1,44 @@
+#EXTM3U
+# Extra free ad-supported (FAST) channels found in the iptv-org index
+# Pluto TV / Samsung TV Plus / Roku Channel / Xumo / Plex / Tubi / DistroTV
+# TOTAL CHANNELS: 10
+
+# ============ 📡 Plex Live TV · Cameroon (1) ============
+#EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-name="PLEX TV (720p)" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="📡 Plex Live TV · Cameroon",PLEX TV (720p)
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+
+# ============ 📡 Samsung TV Plus · Portugal (1) ============
+#EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="FUEL TV AU (1080p)" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="📡 Samsung TV Plus · Portugal",FUEL TV AU (1080p)
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+
+# ============ 📡 Samsung TV Plus · Singapore (1) ============
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-name="ZooMoo (1080p)" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="📡 Samsung TV Plus · Singapore",ZooMoo (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+# ============ 📡 Samsung TV Plus · Slovakia (1) ============
+#EXTINF:-1 tvg-id="ducktv.sk@SD" tvg-name="ducktv (720p)" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="📡 Samsung TV Plus · Slovakia",ducktv (720p)
+https://jmp2.uk/stvp-ESBC4700001GR
+
+# ============ 📡 Samsung TV Plus · United States (1) ============
+#EXTINF:-1 tvg-id="RacerNetwork.us@SD" tvg-name="Racer Network (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg" group-title="📡 Samsung TV Plus · United States",Racer Network (1080p)
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+
+# ============ 📡 Samsung TV Plus · World (1) ============
+#EXTINF:-1 tvg-id="TNTV.pf@SD" tvg-name="TNTV (1080p)" tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="📡 Samsung TV Plus · World",TNTV (1080p)
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+
+# ============ 📡 The Roku Channel · Libya (1) ============
+#EXTINF:-1 tvg-id="LibyaAlWataniya.ly@SD" tvg-name="Libya Al Wataniya (360p)" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="📡 The Roku Channel · Libya",Libya Al Wataniya (360p)
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+
+# ============ 📡 The Roku Channel · World (1) ============
+#EXTINF:-1 tvg-id="SudanTV.sd@SD" tvg-name="Sudan TV (360p)" tvg-logo="https://i.imgur.com/XUPAYAA.png" group-title="📡 The Roku Channel · World",Sudan TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+
+# ============ 📡 Xumo Play · Canada (1) ============
+#EXTINF:-1 tvg-id="StingrayTikTokRadio.ca@HD" tvg-name="Stingray TikTok Radio (1080p)" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/12/tiktok-radio_logo-new2.svg" group-title="📡 Xumo Play · Canada",Stingray TikTok Radio (1080p)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
+
+# ============ 📡 Xumo Play · United States (1) ============
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us@SD" tvg-name="Tastemade en Espanol (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📡 Xumo Play · United States",Tastemade en Espanol (1080p) [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8

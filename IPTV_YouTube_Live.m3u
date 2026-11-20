@@ -1,0 +1,126 @@
+#EXTM3U
+# Official YouTube live channels (broadcaster-owned, free)
+# URL format: youtube.com/channel/<id>/live  - always points to the current live stream
+# Needs a player with YouTube support (OTT Navigator / Kodi+YouTube plugin) or just open the link
+# Run check_youtube.py to re-verify which channels are live
+# TOTAL CHANNELS: 47
+
+# ============ ▶ 🇧🇩 YouTube Live · Bangladesh (21) ============
+#EXTINF:-1 tvg-id="yt-UCxHoBXkY88Tb8z1Ssj6CWsQ" tvg-name="SOMOY TV" tvg-logo="https://i.ytimg.com/vi/1na8me3DYKM/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",SOMOY TV
+https://www.youtube.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ/live
+#EXTINF:-1 tvg-id="yt-UCN6sm8iHiPd0cnoUardDAnw" tvg-name="Jamuna TV" tvg-logo="https://i.ytimg.com/vi/UhtoArmJnYY/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Jamuna TV
+https://www.youtube.com/channel/UCN6sm8iHiPd0cnoUardDAnw/live
+#EXTINF:-1 tvg-id="yt-UCATUkaOHwO9EP_W87zCiPbA" tvg-name="Independent Television" tvg-logo="https://i.ytimg.com/vi/iWq2kH0iq2Q/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Independent Television
+https://www.youtube.com/channel/UCATUkaOHwO9EP_W87zCiPbA/live
+#EXTINF:-1 tvg-id="yt-UC9Rgo0CrNyd7OWliLekqqGA" tvg-name="ATN News" tvg-logo="https://i.ytimg.com/vi/6mX8fUmi1z0/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",ATN News
+https://www.youtube.com/channel/UC9Rgo0CrNyd7OWliLekqqGA/live
+#EXTINF:-1 tvg-id="yt-UCbgcYEdMsuypG2NJ-znBp3w" tvg-name="ATN Bangla News" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",ATN Bangla News
+https://www.youtube.com/channel/UCbgcYEdMsuypG2NJ-znBp3w/live
+#EXTINF:-1 tvg-id="yt-UCUvXoiDEKI8VZJrr58g4VAw" tvg-name="DBC News" tvg-logo="https://i.ytimg.com/vi/k0rJ0g1Ez6I/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",DBC News
+https://www.youtube.com/channel/UCUvXoiDEKI8VZJrr58g4VAw/live
+#EXTINF:-1 tvg-id="yt-UCtqvtAVmad5zywaziN6CbfA" tvg-name="Ekattor TV" tvg-logo="https://i.ytimg.com/vi/fnIr_EbK6PM/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Ekattor TV
+https://www.youtube.com/channel/UCtqvtAVmad5zywaziN6CbfA/live
+#EXTINF:-1 tvg-id="yt-UCb2O5Uo4a26CdTE7_2QA-jA" tvg-name="News24" tvg-logo="https://i.ytimg.com/vi/5HCNokrEpk4/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",News24
+https://www.youtube.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA/live
+#EXTINF:-1 tvg-id="yt-UC0V3IJCnr6ZNjB9t_GLhFFA" tvg-name="NTV" tvg-logo="https://i.ytimg.com/vi/bzkwxuW8Z4k/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",NTV
+https://www.youtube.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA/live
+#EXTINF:-1 tvg-id="yt-UCA9CI-VL_LzlIROr2_n4iqA" tvg-name="Channel i" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Channel i
+https://www.youtube.com/channel/UCA9CI-VL_LzlIROr2_n4iqA/live
+#EXTINF:-1 tvg-id="yt-UCHLqIOMPk20w-6cFgkA90jw" tvg-name="Channel 24" tvg-logo="https://i.ytimg.com/vi/WMlDSbd6uB0/maxresdefault.jpg" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Channel 24
+https://www.youtube.com/channel/UCHLqIOMPk20w-6cFgkA90jw/live
+#EXTINF:-1 tvg-id="yt-UCA4y9g_GRdNrZLH_u5LLSdw" tvg-name="Bangla Vision" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Bangla Vision
+https://www.youtube.com/channel/UCA4y9g_GRdNrZLH_u5LLSdw/live
+#EXTINF:-1 tvg-id="yt-UCsVlf7Cr6RA81GFiU_qS5EQ" tvg-name="Maasranga TV" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Maasranga TV
+https://www.youtube.com/channel/UCsVlf7Cr6RA81GFiU_qS5EQ/live
+#EXTINF:-1 tvg-id="yt-UC2P5Fd5g41Gtdqf0Uzh8Qaw" tvg-name="Rtv News" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Rtv News
+https://www.youtube.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw/live
+#EXTINF:-1 tvg-id="yt-UCig6MgICx3g8p3IHZM45oEA" tvg-name="Nagorik TV" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Nagorik TV
+https://www.youtube.com/channel/UCig6MgICx3g8p3IHZM45oEA/live
+#EXTINF:-1 tvg-id="yt-UCD7oyc2QLn1K9WciN6t8ZEw" tvg-name="Shamol Bangla TV" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Shamol Bangla TV
+https://www.youtube.com/channel/UCD7oyc2QLn1K9WciN6t8ZEw/live
+#EXTINF:-1 tvg-id="yt-UCqle5cwtPckB2N8sSQoynwg" tvg-name="Global TV" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Global TV
+https://www.youtube.com/channel/UCqle5cwtPckB2N8sSQoynwg/live
+#EXTINF:-1 tvg-id="yt-UCjIi0uZg4h5Ar8gvLDTrGwA" tvg-name="GTV News" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",GTV News
+https://www.youtube.com/channel/UCjIi0uZg4h5Ar8gvLDTrGwA/live
+#EXTINF:-1 tvg-id="yt-UC-xwwLWkh1Ypt90iJ7BvBew" tvg-name="Deepto TV" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Deepto TV
+https://www.youtube.com/channel/UC-xwwLWkh1Ypt90iJ7BvBew/live
+#EXTINF:-1 tvg-id="yt-UC2t9imwIR7xlDfma3CmRKJQ" tvg-name="T Sports" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",T Sports
+https://www.youtube.com/channel/UC2t9imwIR7xlDfma3CmRKJQ/live
+#EXTINF:-1 tvg-id="yt-UCHR-p802PibDYG1btNJcOew" tvg-name="Maasranga News" tvg-logo="" group-title="▶ 🇧🇩 YouTube Live · Bangladesh",Maasranga News
+https://www.youtube.com/channel/UCHR-p802PibDYG1btNJcOew/live
+
+# ============ ▶ 🇮🇳 YouTube Live · India (10) ============
+#EXTINF:-1 tvg-id="yt-UCt4t-jeY85JegMlZ-E5UWtA" tvg-name="Aaj Tak" tvg-logo="https://i.ytimg.com/vi/zsrprUXS9uM/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",Aaj Tak
+https://www.youtube.com/channel/UCt4t-jeY85JegMlZ-E5UWtA/live
+#EXTINF:-1 tvg-id="yt-UCYPvAwZP8pZhSMW8qs7cVCw" tvg-name="India Today" tvg-logo="https://i.ytimg.com/vi/Vk5psC9_3GE/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",India Today
+https://www.youtube.com/channel/UCYPvAwZP8pZhSMW8qs7cVCw/live
+#EXTINF:-1 tvg-id="yt-UCZFMm1mMw0F81Z37aaEzTUA" tvg-name="NDTV" tvg-logo="https://i.ytimg.com/vi/pzxFElRLdj4/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",NDTV
+https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
+#EXTINF:-1 tvg-id="yt-UCwucPzHZ7zCUIf7If-Wo1g" tvg-name="DD News" tvg-logo="" group-title="▶ 🇮🇳 YouTube Live · India",DD News
+https://www.youtube.com/channel/UCwucPzHZ7zCUIf7If-Wo1g/live
+#EXTINF:-1 tvg-id="yt-UCIvaYmXn910QMdemBG3v1pQ" tvg-name="Zee News" tvg-logo="https://i.ytimg.com/vi/FlU0DpgtlHY/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",Zee News
+https://www.youtube.com/channel/UCIvaYmXn910QMdemBG3v1pQ/live
+#EXTINF:-1 tvg-id="yt-UCRWFSbif-RFENbBrSiez1DA" tvg-name="ABP News" tvg-logo="https://i.ytimg.com/vi/Z91lw0DBDZk/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",ABP News
+https://www.youtube.com/channel/UCRWFSbif-RFENbBrSiez1DA/live
+#EXTINF:-1 tvg-id="yt-UC7wXt18f2iA3EDXeqAVuKng" tvg-name="Republic Bharat" tvg-logo="https://i.ytimg.com/vi/-4KzY57fFbA/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",Republic Bharat
+https://www.youtube.com/channel/UC7wXt18f2iA3EDXeqAVuKng/live
+#EXTINF:-1 tvg-id="yt-UC_gUM8rL-Lrg6O3adPW9K1g" tvg-name="WION" tvg-logo="https://i.ytimg.com/vi/glsFOZ9d3Bw/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",WION
+https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
+#EXTINF:-1 tvg-id="yt-UCmRbHAgG2k2vDUvb3xsEunQ" tvg-name="CNBC-TV18" tvg-logo="https://i.ytimg.com/vi/-yIQiK5bp4s/maxresdefault.jpg" group-title="▶ 🇮🇳 YouTube Live · India",CNBC-TV18
+https://www.youtube.com/channel/UCmRbHAgG2k2vDUvb3xsEunQ/live
+#EXTINF:-1 tvg-id="yt-UCISgnSNwqQ2i8lhCun3KtQg" tvg-name="Sansad TV" tvg-logo="https://i.ytimg.com/vi/fXlNWqFc6q8/hqdefault.jpg?v=6adf9133" group-title="▶ 🇮🇳 YouTube Live · India",Sansad TV
+https://www.youtube.com/channel/UCISgnSNwqQ2i8lhCun3KtQg/live
+
+# ============ ▶ 🇺🇸 YouTube Live · United States (5) ============
+#EXTINF:-1 tvg-id="yt-UCBi2mrWuNuyYy4gbM6fU18Q" tvg-name="ABC News" tvg-logo="https://i.ytimg.com/vi/QpWEiHwtGIE/maxresdefault.jpg" group-title="▶ 🇺🇸 YouTube Live · United States",ABC News
+https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
+#EXTINF:-1 tvg-id="yt-UCeY0bbntWzzVIaj2z3QigXg" tvg-name="NBC News" tvg-logo="https://i.ytimg.com/vi/MZHbOOW--cI/maxresdefault.jpg" group-title="▶ 🇺🇸 YouTube Live · United States",NBC News
+https://www.youtube.com/channel/UCeY0bbntWzzVIaj2z3QigXg/live
+#EXTINF:-1 tvg-id="yt-UC6ZFN9Tx6xh-skXCuRHCDpQ" tvg-name="PBS NewsHour" tvg-logo="https://i.ytimg.com/vi/v0-JdZfzsnI/maxresdefault.jpg" group-title="▶ 🇺🇸 YouTube Live · United States",PBS NewsHour
+https://www.youtube.com/channel/UC6ZFN9Tx6xh-skXCuRHCDpQ/live
+#EXTINF:-1 tvg-id="yt-UCIALMKvObZNtJ6AmdCLP7Lg" tvg-name="Bloomberg Television" tvg-logo="https://i.ytimg.com/vi/QB5BNdBFujE/maxresdefault.jpg" group-title="▶ 🇺🇸 YouTube Live · United States",Bloomberg Television
+https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/live
+#EXTINF:-1 tvg-id="yt-UCrp_UI8XtuYfpiqluWLD7Lw" tvg-name="CNBC Television" tvg-logo="" group-title="▶ 🇺🇸 YouTube Live · United States",CNBC Television
+https://www.youtube.com/channel/UCrp_UI8XtuYfpiqluWLD7Lw/live
+
+# ============ ▶ 🇶🇦 YouTube Live · Qatar (2) ============
+#EXTINF:-1 tvg-id="yt-UCNye-wNBqNL5ZzHSJj3l8Bg" tvg-name="Al Jazeera English" tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/maxresdefault.jpg" group-title="▶ 🇶🇦 YouTube Live · Qatar",Al Jazeera English
+https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
+#EXTINF:-1 tvg-id="yt-UCfiwzLy-8yKzIbsmZTzxDgw" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.ytimg.com/vi/FelGGahCbS8/maxresdefault.jpg" group-title="▶ 🇶🇦 YouTube Live · Qatar",Al Jazeera Arabic
+https://www.youtube.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw/live
+
+# ============ ▶ 🇨🇳 YouTube Live · China (1) ============
+#EXTINF:-1 tvg-id="yt-UCgrNz-aDmcr2uuto8_DL2jg" tvg-name="CGTN" tvg-logo="https://i.ytimg.com/vi/0i7n3r01L2U/maxresdefault.jpg" group-title="▶ 🇨🇳 YouTube Live · China",CGTN
+https://www.youtube.com/channel/UCgrNz-aDmcr2uuto8_DL2jg/live
+
+# ============ ▶ 🇩🇪 YouTube Live · Germany (1) ============
+#EXTINF:-1 tvg-id="yt-UCknLrEdhRCp1aegoMqRaCZg" tvg-name="DW News" tvg-logo="https://i.ytimg.com/vi/LuKwFajn37U/maxresdefault.jpg" group-title="▶ 🇩🇪 YouTube Live · Germany",DW News
+https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
+
+# ============ ▶ 🇫🇷 YouTube Live · France (1) ============
+#EXTINF:-1 tvg-id="yt-UCSrZ3UV4jOidv8ppoVuvW9Q" tvg-name="Euronews" tvg-logo="https://i.ytimg.com/vi/pykpO5kQJ98/maxresdefault.jpg" group-title="▶ 🇫🇷 YouTube Live · France",Euronews
+https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
+
+# ============ ▶ 🇮🇱 YouTube Live · Israel (1) ============
+#EXTINF:-1 tvg-id="yt-UCvHDpsWKADrDia0c99X37vg" tvg-name="i24NEWS English" tvg-logo="" group-title="▶ 🇮🇱 YouTube Live · Israel",i24NEWS English
+https://www.youtube.com/channel/UCvHDpsWKADrDia0c99X37vg/live
+
+# ============ ▶ 🇯🇵 YouTube Live · Japan (1) ============
+#EXTINF:-1 tvg-id="yt-UCSPEjw8F2nQDtmUKPFNF7_A" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://i.ytimg.com/vi/IimtbuqYIE8/maxresdefault.jpg" group-title="▶ 🇯🇵 YouTube Live · Japan",NHK WORLD-JAPAN
+https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
+
+# ============ ▶ 🇰🇷 YouTube Live · South Korea (1) ============
+#EXTINF:-1 tvg-id="yt-UCzznO4xSV8BKnUBPyswtCUw" tvg-name="Arirang News" tvg-logo="" group-title="▶ 🇰🇷 YouTube Live · South Korea",Arirang News
+https://www.youtube.com/channel/UCzznO4xSV8BKnUBPyswtCUw/live
+
+# ============ ▶ 🇸🇬 YouTube Live · Singapore (1) ============
+#EXTINF:-1 tvg-id="yt-UC83jt4dlz1Gjl58fzQrrKZg" tvg-name="CNA" tvg-logo="https://i.ytimg.com/vi/-PWMxjBgr0k/maxresdefault.jpg" group-title="▶ 🇸🇬 YouTube Live · Singapore",CNA
+https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
+
+# ============ ▶ 🇹🇷 YouTube Live · Turkey (1) ============
+#EXTINF:-1 tvg-id="yt-UC7fWeaHhqgM4Ry-RMpM2YYw" tvg-name="TRT World" tvg-logo="https://i.ytimg.com/vi/JV5w1MhzcfQ/maxresdefault.jpg" group-title="▶ 🇹🇷 YouTube Live · Turkey",TRT World
+https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
+
+# ============ ▶ 🇺🇰 YouTube Live · United Kingdom (1) ============
+#EXTINF:-1 tvg-id="yt-UCoMdktPbSTixAyNGwb-UYkQ" tvg-name="Sky News" tvg-logo="https://i.ytimg.com/vi/53SxFKpbKDE/maxresdefault.jpg" group-title="▶ 🇺🇰 YouTube Live · United Kingdom",Sky News
+https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
