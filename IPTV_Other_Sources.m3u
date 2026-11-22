@@ -2,7 +2,7 @@
 # Extra legal free channels from the Free-TV open-source project
 # (free-to-air streams published by broadcasters themselves)
 # Run refresh_extras.sh to update
-# TOTAL CHANNELS: 1497
+# TOTAL CHANNELS: 1495
 
 # ============ 🇮🇹 Italy (337) ============
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1
@@ -1356,13 +1356,11 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mongol TV Ⓨ" tvg-logo="" group-title="🇲🇳 Mongolia",Mongol TV Ⓨ
 https://www.youtube.com/c/MONGOLTVnow/live
 
-# ============ 🇪🇸 Spain (40) ============
+# ============ 🇪🇸 Spain (39) ============
 #EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="🇪🇸 Spain",La 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="🇪🇸 Spain",La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="tdp.es" tvg-name="tdp" tvg-logo="https://i.imgur.com/HliegRJ.png" group-title="🇪🇸 Spain",tdp
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="clan.es" tvg-name="clan" tvg-logo="https://i.imgur.com/38xIfQ3.png" group-title="🇪🇸 Spain",clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="🇪🇸 Spain",TVE Internacional Europe-Asia
@@ -2604,26 +2602,6 @@ https://www.youtube.com/@LtvuSeTube/live
 #EXTINF:-1 tvg-id="SuryoyoSat.se" tvg-name="Suryoyo Sat" tvg-logo="https://i.imgur.com/naCNjaB.png" group-title="🇸🇪 Sweden",Suryoyo Sat
 https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8
 
-# ============ 🇩🇰 Denmark (9) ============
-#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1 Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" group-title="🇩🇰 Denmark",DR1 Ⓖ
-https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
-#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2 Ⓖ" tvg-logo="https://i.imgur.com/b79UKYN.png" group-title="🇩🇰 Denmark",DR2 Ⓖ
-https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
-#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" group-title="🇩🇰 Denmark",DR Ramasjang Ⓖ
-https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
-#EXTINF:-1 tvg-id="TVSYD.dk" tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" group-title="🇩🇰 Denmark",TV Syd+
-https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
-#EXTINF:-1 tvg-id="TV2Fyn.dk" tvg-name="TV 2/Fyn" tvg-logo="https://i.imgur.com/4L6AIMH.png" group-title="🇩🇰 Denmark",TV 2/Fyn
-https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd
-#EXTINF:-1 tvg-id="TV2Ost.dk" tvg-name="TV 2/Øst" tvg-logo="https://i.imgur.com/H9l6Ulw.png" group-title="🇩🇰 Denmark",TV 2/Øst
-http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
-#EXTINF:-1 tvg-id="TV2Nord.dk" tvg-name="TV 2/Nord" tvg-logo="https://i.imgur.com/tEJ22UW.png" group-title="🇩🇰 Denmark",TV 2/Nord
-http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8
-#EXTINF:-1 tvg-id="TVMidtvest.dk" tvg-name="TV/Midt-Vest" tvg-logo="https://i.imgur.com/OU7xIVa.png" group-title="🇩🇰 Denmark",TV/Midt-Vest
-http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8
-#EXTINF:-1 tvg-id="TV2Ostjylland.dk" tvg-name="TV 2/Østjylland" tvg-logo="https://i.imgur.com/qEUXjHp.png" group-title="🇩🇰 Denmark",TV 2/Østjylland
-http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8
-
 # ============ 🇮🇱 Israel (9) ============
 #EXTINF:-1 tvg-id="Channel9.il" tvg-name="9 канал Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="🇮🇱 Israel",9 канал Ⓨ
 https://www.youtube.com/@israel9tv/live
@@ -2719,6 +2697,24 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="🇧🇷 Brazil",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+# ============ 🇩🇰 Denmark (8) ============
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1 Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" group-title="🇩🇰 Denmark",DR1 Ⓖ
+https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2 Ⓖ" tvg-logo="https://i.imgur.com/b79UKYN.png" group-title="🇩🇰 Denmark",DR2 Ⓖ
+https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
+#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" group-title="🇩🇰 Denmark",DR Ramasjang Ⓖ
+https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
+#EXTINF:-1 tvg-id="TVSYD.dk" tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" group-title="🇩🇰 Denmark",TV Syd+
+https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
+#EXTINF:-1 tvg-id="TV2Ost.dk" tvg-name="TV 2/Øst" tvg-logo="https://i.imgur.com/H9l6Ulw.png" group-title="🇩🇰 Denmark",TV 2/Øst
+http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
+#EXTINF:-1 tvg-id="TV2Nord.dk" tvg-name="TV 2/Nord" tvg-logo="https://i.imgur.com/tEJ22UW.png" group-title="🇩🇰 Denmark",TV 2/Nord
+http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8
+#EXTINF:-1 tvg-id="TVMidtvest.dk" tvg-name="TV/Midt-Vest" tvg-logo="https://i.imgur.com/OU7xIVa.png" group-title="🇩🇰 Denmark",TV/Midt-Vest
+http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8
+#EXTINF:-1 tvg-id="TV2Ostjylland.dk" tvg-name="TV 2/Østjylland" tvg-logo="https://i.imgur.com/qEUXjHp.png" group-title="🇩🇰 Denmark",TV 2/Østjylland
+http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8
 
 # ============ 🇪🇪 Estonia (8) ============
 #EXTINF:-1 tvg-id="ETV.ee" tvg-name="ETV Ⓖ" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="🇪🇪 Estonia",ETV Ⓖ
