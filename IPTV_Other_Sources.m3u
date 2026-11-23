@@ -2,7 +2,7 @@
 # Extra legal free channels from the Free-TV open-source project
 # (free-to-air streams published by broadcasters themselves)
 # Run refresh_extras.sh to update
-# TOTAL CHANNELS: 1495
+# TOTAL CHANNELS: 1499
 
 # ============ 🇮🇹 Italy (337) ============
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1
@@ -1084,7 +1084,7 @@ https://budapest-cache-1.antik.sk/live/slager/index.m3u8
 #EXTINF:-1 tvg-id="PVTV.hu" tvg-name="Putnok Városi TV" tvg-logo="https://i.imgur.com/eKXPBFb.png" group-title="🇭🇺 Hungary",Putnok Városi TV
 http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8
 
-# ============ 🇷🇺 Russia (49) ============
+# ============ 🇷🇺 Russia (51) ============
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/960px-Russia-1.svg.png" group-title="🇷🇺 Russia",Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Match.ru" tvg-name="Матч ТВ Ⓢ" tvg-logo="https://i.imgur.com/kFdooR4.png" group-title="🇷🇺 Russia",Матч ТВ Ⓢ
@@ -1143,6 +1143,8 @@ http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Katun24.ru" tvg-name="Катунь 24 Ⓞ" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺 Russia",Катунь 24 Ⓞ
 https://ok.ru/video/1166706155179
+#EXTINF:-1 tvg-id="Crimea24.ru" tvg-name="Крым 24" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="🇷🇺 Russia",Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru" tvg-name="Кубань 24 Ⓞ" tvg-logo="https://i.imgur.com/atzrXcz.png" group-title="🇷🇺 Russia",Кубань 24 Ⓞ
 https://ok.ru/video/4157442498242
 #EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Луганск 24" tvg-logo="https://i.imgur.com/YnLFQnt.png" group-title="🇷🇺 Russia",Луганск 24
@@ -1159,6 +1161,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 https://tvtogliatti24.ru/hls/live1080/index.m3u8
 #EXTINF:-1 tvg-id="Yakutiya24.ru" tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" group-title="🇷🇺 Russia",Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru" tvg-name="360 Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="🇷🇺 Russia",360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Вести ФМ" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" group-title="🇷🇺 Russia",Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
 #EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-name="Небеса ТВ7 Ⓢ" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" group-title="🇷🇺 Russia",Небеса ТВ7 Ⓢ
@@ -2850,6 +2854,22 @@ https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
 #EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" group-title="🇸🇰 Slovakia",TA3
 https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 
+# ============ 🇹🇷 Turkey (7) ============
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor Ⓖ" tvg-logo="https://i.imgur.com/N2wGZyf.png" group-title="🇹🇷 Turkey",TRT Spor Ⓖ
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Spor 2 Ⓖ" tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="🇹🇷 Turkey",TRT Spor 2 Ⓖ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT Müzik" tvg-logo="https://i.imgur.com/fIVFCEd.png" group-title="🇹🇷 Turkey",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://i.imgur.com/MGO87pe.png" group-title="🇹🇷 Turkey",TRT Belgesel
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="🇹🇷 Turkey",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="🇹🇷 Turkey",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" group-title="🇹🇷 Turkey",TRT World Ⓨ
+https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
+
 # ============ 🇨🇭 Switzerland (6) ============
 #EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1" tvg-logo="https://i.imgur.com/KCPHba2.png" group-title="🇨🇭 Switzerland",SRF 1
 http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
@@ -2878,20 +2898,6 @@ https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md" tvg-name="Balti TV" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="🇲🇩 Moldova",Balti TV
 http://77.89.199.174:8000/play/1024/index.m3u8
 
-# ============ 🇹🇷 Turkey (6) ============
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor Ⓖ" tvg-logo="https://i.imgur.com/N2wGZyf.png" group-title="🇹🇷 Turkey",TRT Spor Ⓖ
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT Spor 2 Ⓖ" tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="🇹🇷 Turkey",TRT Spor 2 Ⓖ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://i.imgur.com/MGO87pe.png" group-title="🇹🇷 Turkey",TRT Belgesel
-https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" group-title="🇹🇷 Turkey",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" group-title="🇹🇷 Turkey",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" group-title="🇹🇷 Turkey",TRT World Ⓨ
-https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
-
 # ============ 🇹🇹 Trinidad (6) ============
 #EXTINF:-1 tvg-id="CNC3.tt" tvg-name="CNC3" tvg-logo="https://i.imgur.com/1E73l2j.png" group-title="🇹🇹 Trinidad",CNC3
 https://sktv-forwarders.7m.pl/get.php?x=CNC3
@@ -2917,6 +2923,18 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="🇮🇩 Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+# ============ 🇮🇷 Iran (5) ============
+#EXTINF:-1 tvg-id="IRINN.ir" tvg-name="IRINN" tvg-logo="https://i.imgur.com/7HL4joq.png" group-title="🇮🇷 Iran",IRINN
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm" tvg-logo="https://i.imgur.com/4Z9L1AW.png" group-title="🇮🇷 Iran",iFilm
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-id="AlalamNewsChannel.ir" tvg-name="Al-Alam News Network Ⓢ" tvg-logo="https://i.imgur.com/UbD0Ndr.png" group-title="🇮🇷 Iran",Al-Alam News Network Ⓢ
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" group-title="🇮🇷 Iran",Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir" tvg-name="IranPress Ⓢ" tvg-logo="https://i.imgur.com/Qrubr3v.png" group-title="🇮🇷 Iran",IranPress Ⓢ
+https://live1.presstv.ir/live/iranpress/index.m3u8
 
 # ============ 🇲🇴 Other / International (5) ============
 #EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-name="TDM Ou Mun" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="🇲🇴 Other / International",TDM Ou Mun
@@ -2973,16 +2991,6 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="88stereo.cr" tvg-name="88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" group-title="🇨🇷 Costa Rica",88 Stereo
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-# ============ 🇮🇷 Iran (4) ============
-#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="IRIB Pooya & Nahal" tvg-logo="https://i.imgur.com/hjeQUtg.png" group-title="🇮🇷 Iran",IRIB Pooya & Nahal
-https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlalamNewsChannel.ir" tvg-name="Al-Alam News Network Ⓢ" tvg-logo="https://i.imgur.com/UbD0Ndr.png" group-title="🇮🇷 Iran",Al-Alam News Network Ⓢ
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" group-title="🇮🇷 Iran",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IranPress.ir" tvg-name="IranPress Ⓢ" tvg-logo="https://i.imgur.com/Qrubr3v.png" group-title="🇮🇷 Iran",IranPress Ⓢ
-https://live1.presstv.ir/live/iranpress/index.m3u8
 
 # ============ 🇰🇪 Kenya (4) ============
 #EXTINF:-1 tvg-id="KTNNews.ke" tvg-name="KTN NEWS TV" tvg-logo="https://i.imgur.com/7yzunBK.png" group-title="🇰🇪 Kenya",KTN NEWS TV

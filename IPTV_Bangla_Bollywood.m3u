@@ -4,7 +4,7 @@
 # - free-to-air Bangladeshi channels
 # Premium channels (Star Jalsha / Zee Bangla / Sony / HBO) are NOT here:
 #   in Bangladesh they are legally available on Toffee (toffeelive.com)
-# TOTAL CHANNELS: 40
+# TOTAL CHANNELS: 42
 
 # ====== 🇧🇩 Bangla & Bollywood · ⚽ Sports (1) ======
 #EXTINF:-1 tvg-id="yt-UC2t9imwIR7xlDfma3CmRKJQ" tvg-name="T Sports [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · ⚽ Sports",T Sports [YT]
@@ -18,7 +18,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="🇧🇩 Bangla & Bollywood · 🎬 Movies",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-# ====== 🇧🇩 Bangla & Bollywood · 🎭 Entertainment (10) ======
+# ====== 🇧🇩 Bangla & Bollywood · 🎭 Entertainment (11) ======
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-name="Ananda TV (720p)" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Ananda TV (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-name="Bangla Vision (720p)" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Bangla Vision (720p)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Boishakhi TV
@@ -44,7 +46,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="MatribhumiTV.bd@HD" tvg-name="Matribhumi TV (720p)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="🇧🇩 Bangla & Bollywood · 📦 Other",Matribhumi TV (720p)
 http://live.playmax.live/matribhumi/index.m3u8
 
-# ====== 🇧🇩 Bangla & Bollywood · 📰 News (14) ======
+# ====== 🇧🇩 Bangla & Bollywood · 📰 News (15) ======
 #EXTINF:-1 tvg-id="yt-UCbgcYEdMsuypG2NJ-znBp3w" tvg-name="ATN Bangla News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",ATN Bangla News [YT]
 https://www.youtube.com/channel/UCbgcYEdMsuypG2NJ-znBp3w/live
 #EXTINF:-1 tvg-id="yt-UC9Rgo0CrNyd7OWliLekqqGA" tvg-name="ATN News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",ATN News [YT]
@@ -65,6 +67,8 @@ https://www.youtube.com/channel/UCHR-p802PibDYG1btNJcOew/live
 https://www.youtube.com/channel/UCig6MgICx3g8p3IHZM45oEA/live
 #EXTINF:-1 tvg-id="NANTV.bd@SD" tvg-name="NAN TV (720p)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="🇧🇩 Bangla & Bollywood · 📰 News",NAN TV (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="News21BanglaTV.bd@SD" tvg-name="News 21 Bangla TV (1080p)" tvg-logo="https://i.imgur.com/ijuJfmd.png" group-title="🇧🇩 Bangla & Bollywood · 📰 News",News 21 Bangla TV (1080p)
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD" tvg-name="Probashi TV News (1080p)" tvg-logo="https://i.imgur.com/7oTsfQ4.png" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Probashi TV News (1080p)
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="yt-UC2P5Fd5g41Gtdqf0Uzh8Qaw" tvg-name="Rtv News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",Rtv News [YT]
