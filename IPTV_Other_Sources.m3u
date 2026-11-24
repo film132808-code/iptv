@@ -2,7 +2,7 @@
 # Extra legal free channels from the Free-TV open-source project
 # (free-to-air streams published by broadcasters themselves)
 # Run refresh_extras.sh to update
-# TOTAL CHANNELS: 1499
+# TOTAL CHANNELS: 1501
 
 # ============ 🇮🇹 Italy (337) ============
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1
@@ -1664,7 +1664,7 @@ https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION Ⓨ" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="🇮🇳 India",WION Ⓨ
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
-# ============ 🇺🇸 United States (32) ============
+# ============ 🇺🇸 United States (31) ============
 #EXTINF:-1 tvg-id="RetroTVEast.us" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/PNTYOgg.png" group-title="🇺🇸 United States",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://i.imgur.com/6ae9E8d.png" group-title="🇺🇸 United States",Stadium
@@ -1707,8 +1707,6 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax TV" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="🇺🇸 United States",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTeVe.us" tvg-name="America TeVe" tvg-logo="https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg" group-title="🇺🇸 United States",America TeVe
-https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-name="FilmRise Movies" tvg-logo="https://i.imgur.com/jGzMaRD.png" group-title="🇺🇸 United States",FilmRise Movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmRiseSciFi.us" tvg-name="FilmRise Sci-Fi" tvg-logo="https://i.imgur.com/FcN1OKo.png" group-title="🇺🇸 United States",FilmRise Sci-Fi
@@ -2898,6 +2896,20 @@ https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md" tvg-name="Balti TV" tvg-logo="https://i.imgur.com/S1vEqZp.png" group-title="🇲🇩 Moldova",Balti TV
 http://77.89.199.174:8000/play/1024/index.m3u8
 
+# ============ 🇸🇦 Saudi Arabia (6) ============
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="🇸🇦 Saudi Arabia",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="🇸🇦 Saudi Arabia",Rotana Cinema KSA
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="🇸🇦 Saudi Arabia",Rotana Classic
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="Rotana Ciip" tvg-logo="https://i.imgur.com/nhREk0o.png" group-title="🇸🇦 Saudi Arabia",Rotana Ciip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="🇸🇦 Saudi Arabia",Rotana Music
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-name="Al Hadath العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" group-title="🇸🇦 Saudi Arabia",Al Hadath العربية
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+
 # ============ 🇹🇹 Trinidad (6) ============
 #EXTINF:-1 tvg-id="CNC3.tt" tvg-name="CNC3" tvg-logo="https://i.imgur.com/1E73l2j.png" group-title="🇹🇹 Trinidad",CNC3
 https://sktv-forwarders.7m.pl/get.php?x=CNC3
@@ -3093,14 +3105,6 @@ https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 https://edge8.pink.rs/redtv/index.m3u8
 #EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="🇷🇸 Serbia",Informer TV
 https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
-
-# ============ 🇸🇦 Saudi Arabia (3) ============
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="🇸🇦 Saudi Arabia",Al Quran Al Kareem TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="🇸🇦 Saudi Arabia",Rotana Classic
-https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHadath.sa" tvg-name="Al Hadath العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" group-title="🇸🇦 Saudi Arabia",Al Hadath العربية
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 
 # ============ 🇧🇬 Bulgaria (2) ============
 #EXTINF:-1 tvg-id="EuroNewsBulgaria.bg" tvg-name="Euronews Bulgaria Ⓨ" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="🇧🇬 Bulgaria",Euronews Bulgaria Ⓨ
