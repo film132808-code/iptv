@@ -10,15 +10,19 @@
 #EXTINF:-1 tvg-id="yt-UC2t9imwIR7xlDfma3CmRKJQ" tvg-name="T Sports [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · ⚽ Sports",T Sports [YT]
 https://www.youtube.com/channel/UC2t9imwIR7xlDfma3CmRKJQ/live
 
+# ====== 🇧🇩 Bangla & Bollywood · 🍳 Lifestyle (1) ======
+#EXTINF:-1 tvg-id="ChannelS.bd@SD" tvg-name="Channel S (Bangladesh) (720p)" tvg-logo="https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png" group-title="🇧🇩 Bangla & Bollywood · 🍳 Lifestyle",Channel S (Bangladesh) (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+
 # ====== 🇧🇩 Bangla & Bollywood · 🎬 Movies (1) ======
 #EXTINF:-1 tvg-id="MovieBangla.bd@SD" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="🇧🇩 Bangla & Bollywood · 🎬 Movies",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 # ====== 🇧🇩 Bangla & Bollywood · 🎭 Entertainment (10) ======
+#EXTINF:-1 tvg-id="AnandaTV.bd@SD" tvg-name="Ananda TV (720p)" tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Ananda TV (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-name="Bangla Vision (720p)" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Bangla Vision (720p)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd@SD" tvg-name="Boishakhi TV" tvg-logo="https://i.imgur.com/gxL05Y4.png" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="yt-UCA9CI-VL_LzlIROr2_n4iqA" tvg-name="Channel i [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Channel i [YT]
 https://www.youtube.com/channel/UCA9CI-VL_LzlIROr2_n4iqA/live
 #EXTINF:-1 tvg-id="yt-UC-xwwLWkh1Ypt90iJ7BvBew" tvg-name="Deepto TV [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Deepto TV [YT]
@@ -35,10 +39,6 @@ https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" tvg-name="Rajdhani TV SD (1080p)" tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="🇧🇩 Bangla & Bollywood · 🎭 Entertainment",Rajdhani TV SD (1080p)
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-
-# ====== 🇧🇩 Bangla & Bollywood · 📦 Other (1) ======
-#EXTINF:-1 tvg-id="MatribhumiTV.bd@HD" tvg-name="Matribhumi TV (720p)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="🇧🇩 Bangla & Bollywood · 📦 Other",Matribhumi TV (720p)
-http://live.playmax.live/matribhumi/index.m3u8
 
 # ====== 🇧🇩 Bangla & Bollywood · 📰 News (14) ======
 #EXTINF:-1 tvg-id="yt-UCbgcYEdMsuypG2NJ-znBp3w" tvg-name="ATN Bangla News [YT]" tvg-logo="" group-title="🇧🇩 Bangla & Bollywood · 📰 News",ATN Bangla News [YT]
