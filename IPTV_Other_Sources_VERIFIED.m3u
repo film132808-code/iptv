@@ -1,47 +1,23 @@
 #EXTM3U
 # Extra legal free channels - only ones responding at build time
 # Source: Free-TV open-source project
-# TOTAL CHANNELS: 939
+# TOTAL CHANNELS: 941
 
-# ============ 🇮🇹 Italy (210) ============
+# ============ 🇮🇹 Italy (197) ============
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2 Ⓖ" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="🇮🇹 Italy",Rai 2 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="🇮🇹 Italy",Rai 3
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3 Ⓖ" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="🇮🇹 Italy",Rai 3 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="LA7.HD.it" tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" group-title="🇮🇹 Italy",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4 Ⓖ" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="🇮🇹 Italy",Rai 4 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5 Ⓖ" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="🇮🇹 Italy",Rai 5 Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie Ⓖ" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="🇮🇹 Italy",Rai Movie Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="🇮🇹 Italy",Rai Premium
 https://d3k8wzt41aflvx.cloudfront.net/RaiPremium/Live.m3u8
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium Ⓖ" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="🇮🇹 Italy",Rai Premium Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="🇮🇹 Italy",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp Ⓖ" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="🇮🇹 Italy",Rai Gulp Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo Ⓖ" tvg-logo="https://i.imgur.com/DRSa3ys.png" group-title="🇮🇹 Italy",Rai YoYo Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24 Ⓖ" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="🇮🇹 Italy",Rai News 24 Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="🇮🇹 Italy",Rai Storia
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia Ⓖ" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="🇮🇹 Italy",Rai Storia Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola Ⓖ" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="🇮🇹 Italy",Rai Scuola Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="🇮🇹 Italy",Rai Sport Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="🇮🇹 Italy",Sportitalia Plus
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelTV.it" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="🇮🇹 Italy",Travel TV
@@ -58,8 +34,6 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" group-title="🇮🇹 Italy",Radio KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RaiRadio2Visual.it" tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" group-title="🇮🇹 Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.imgur.com/GH7byqm.jpeg" group-title="🇮🇹 Italy",RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
 #EXTINF:-1 tvg-id="Manga.it" tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" group-title="🇮🇹 Italy",MAN-GA
@@ -170,12 +144,12 @@ https://64b16f23efbee.streamlock.net/servizio01/servizio01/playlist.m3u8
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nuova Tv 1" tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="🇮🇹 Italy",Nuova Tv 1
 https://nuovatv.net:8443/tv/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nuova Tv 2" tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="🇮🇹 Italy",Nuova Tv 2
-https://nuovatv.net:8443/tv2/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nuvola Tv" tvg-logo="https://i.imgur.com/EDGez2x.png" group-title="🇮🇹 Italy",Nuvola Tv
 https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Onda Novara Tv" tvg-logo="https://i.imgur.com/Qoh9CFy.png" group-title="🇮🇹 Italy",Onda Novara Tv
 https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" group-title="🇮🇹 Italy",Onda Tv Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" group-title="🇮🇹 Italy",Onda Web Radio
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Partenope Tv" tvg-logo="https://i.imgur.com/FtuWkj1.png" group-title="🇮🇹 Italy",Partenope Tv
@@ -258,6 +232,8 @@ https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" group-title="🇮🇹 Italy",Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sicilia 24 Tv" tvg-logo="https://i.imgur.com/GhQX36O.png" group-title="🇮🇹 Italy",Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sienatv" tvg-logo="https://i.imgur.com/gcysky4.png" group-title="🇮🇹 Italy",Sienatv
 https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stiletv" tvg-logo="https://i.imgur.com/ZP3cJi7.png" group-title="🇮🇹 Italy",Stiletv
@@ -350,8 +326,6 @@ https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
 https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Televallo Trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" group-title="🇮🇹 Italy",Televallo Trapani
 https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tuscia Sabina 2000Tv" tvg-logo="https://i.imgur.com/Tq5nEAy.png" group-title="🇮🇹 Italy",Tuscia Sabina 2000Tv
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Luna Napoli" tvg-logo="https://i.imgur.com/jxhuoyE.png" group-title="🇮🇹 Italy",Tv Luna Napoli
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Prato" tvg-logo="https://i.imgur.com/zDeVpZd.png" group-title="🇮🇹 Italy",Tv Prato
@@ -661,37 +635,67 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4
 #EXTINF:-1 tvg-id="" tvg-name="Le vite degli altri – Pluto TV" tvg-logo="https://i.imgur.com/nngMFi5.png" group-title="🌐 Other / International",Le vite degli altri – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-# ============ 🇭🇺 Hungary (35) ============
+# ============ 🇭🇺 Hungary (50) ============
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1 Ⓖ" tvg-logo="https://i.imgur.com/neddXUd.png" group-title="🇭🇺 Hungary",M1 Ⓖ
+http://141.94.193.53:80/M1_HD/index.m3u8
+#EXTINF:-1 tvg-id="DunaTV.hu" tvg-name="Duna TV Ⓖ" tvg-logo="https://i.imgur.com/b4RXacY.png" group-title="🇭🇺 Hungary",Duna TV Ⓖ
+http://141.94.193.53:80/Duna_HD/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport Ⓖ" tvg-logo="https://nb1.hu/uploads/news/3/31023.jpg" group-title="🇭🇺 Hungary",M4 Sport Ⓖ
+http://141.94.193.53:80/M4_Sport_HD/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World / M4+ Sport" tvg-logo="https://i.imgur.com/DciAdFF.png" group-title="🇭🇺 Hungary",Duna World / M4+ Sport
+http://141.94.193.53:80/Duna_World_M4_Sport+_HD/index.m3u8
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL Klub" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="🇭🇺 Hungary",RTL Klub
+http://141.94.193.53:80/RTL_HD/index.m3u8
+#EXTINF:-1 tvg-id="TV2.hu" tvg-name="TV2" tvg-logo="https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg" group-title="🇭🇺 Hungary",TV2
+http://141.94.193.53:80/TV2_HD/index.m3u8
 #EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png" group-title="🇭🇺 Hungary",ATV
 http://141.94.193.53:80/ATV_HD/index.m3u8
 #EXTINF:-1 tvg-id="HirTV.hu" tvg-name="Hír TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/250px-Hirtvujlogo05.jpg" group-title="🇭🇺 Hungary",Hír TV
 https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ErdélyTV Ⓨ" tvg-logo="http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png" group-title="🇭🇺 Hungary",ErdélyTV Ⓨ
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
+#EXTINF:-1 tvg-id="TV4.hu" tvg-name="TV4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv4.gif" group-title="🇭🇺 Hungary",TV4
+http://141.94.193.53:80/TV4_HD/index.m3u8
 #EXTINF:-1 tvg-id="Cool.hu" tvg-name="Cool" tvg-logo="https://media.port.hu/images/001/591/100x100/760.jpg" group-title="🇭🇺 Hungary",Cool
 http://141.94.193.53:80/Cool_HD/index.m3u8
 #EXTINF:-1 tvg-id="Spektrum.hu" tvg-name="Spektrum Ⓖ" tvg-logo="https://media.port.hu/images/001/591/100x100/776.jpg" group-title="🇭🇺 Hungary",Spektrum Ⓖ
 http://141.94.193.53:80/Spektrum_HD/index.m3u8
 #EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="Spektrum Home Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png" group-title="🇭🇺 Hungary",Spektrum Home Ⓖ
 http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8
+#EXTINF:-1 tvg-id="Galaxy4.hu" tvg-name="Galaxy4 Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/galaxy4.gif" group-title="🇭🇺 Hungary",Galaxy4 Ⓖ
+http://141.94.193.53:80/Galaxy4_HD/index.m3u8
 #EXTINF:-1 tvg-id="DTV.hu" tvg-name="DTV Ⓖ" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="🇭🇺 Hungary",DTV Ⓖ
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.hu" tvg-name="Sport1 Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport1.gif" group-title="🇭🇺 Hungary",Sport1 Ⓖ
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Sport2.hu" tvg-name="Sport2 Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport2.gif" group-title="🇭🇺 Hungary",Sport2 Ⓖ
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="Viasat3.hu" tvg-name="Viasat3." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Viasat3_%281%29.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇭🇺 Hungary",Viasat3.
+http://141.94.193.53:80/VIASAT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="Story4.hu" tvg-name="Story4." tvg-logo="https://www.tvmustra.hu/logok/csatikon/story4.gif" group-title="🇭🇺 Hungary",Story4.
 http://141.94.193.53:80/Story4_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.hu" tvg-name="Viasat Explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇭🇺 Hungary",Viasat Explore
+http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.hu" tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇭🇺 Hungary",Viasat History
 http://141.94.193.53:80/Viasat_History_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Viasat_Nature_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🇭🇺 Hungary",Viasat Nature
+http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.hu" tvg-name="EuroSport1" tvg-logo="https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png" group-title="🇭🇺 Hungary",EuroSport1
 http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max4." tvg-logo="https://www.tvmustra.hu/logok/csatikon/max4.gif" group-title="🇭🇺 Hungary",Max4.
 http://141.94.193.53:80/MAX4_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="https://www.tvmustra.hu/logok/csatikon/nghd.gif" group-title="🇭🇺 Hungary",Nat Geo
+http://141.94.193.53:80/Nat_Geo_HD/index.m3u8
 #EXTINF:-1 tvg-id="Film+.hu" tvg-name="Film+" tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmplussz.gif" group-title="🇭🇺 Hungary",Film+
 http://141.94.193.53:80/Film+_HD/index.m3u8
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png" group-title="🇭🇺 Hungary",Izaura TV Ⓖ
+http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="Film4.hu" tvg-name="Film4 Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/film4.gif" group-title="🇭🇺 Hungary",Film4 Ⓖ
+http://141.94.193.53:80/Film4_HD/index.m3u8
 #EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="Mozi+ Ⓖ" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/mozi.png" group-title="🇭🇺 Hungary",Mozi+ Ⓖ
 http://141.94.193.53:80/Mozi+_HD/index.m3u8
+#EXTINF:-1 tvg-id="AMC.hu" tvg-name="AMC Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/amc.gif" group-title="🇭🇺 Hungary",AMC Ⓖ
+http://141.94.193.53:80/AMC_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika Ⓖ" tvg-logo="https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif" group-title="🇭🇺 Hungary",TV Paprika Ⓖ
 http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
 #EXTINF:-1 tvg-id="BonumTV.hu" tvg-name="EWTN TV" tvg-logo="https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg" group-title="🇭🇺 Hungary",EWTN TV
@@ -891,40 +895,6 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mongol TV Ⓨ" tvg-logo="" group-title="🇲🇳 Mongolia",Mongol TV Ⓨ
 https://www.youtube.com/c/MONGOLTVnow/live
 
-# ============ 🇪🇸 Spain (16) ============
-#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="🇪🇸 Spain",La 1
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="🇪🇸 Spain",La 2
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="clan.es" tvg-name="clan" tvg-logo="https://i.imgur.com/38xIfQ3.png" group-title="🇪🇸 Spain",clan
-https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="🇪🇸 Spain",TVE Internacional Europe-Asia
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" group-title="🇪🇸 Spain",Paramount Network
-https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
-#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="🇪🇸 Spain",El País
-https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
-#EXTINF:-1 tvg-id="IB3.es" tvg-name="IB3 Global Ⓨ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" group-title="🇪🇸 Spain",IB3 Global Ⓨ
-https://www.youtube.com/c/ib3/live
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-logo="https://i.imgur.com/xBeywIA.png" group-title="🇪🇸 Spain",Canal Extremadura
-https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
-#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" group-title="🇪🇸 Spain",ETB1
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" group-title="🇪🇸 Spain",ETB2
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 tvg-id="TV3CAT.es" tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/500px-TV3CAT.svg.png" group-title="🇪🇸 Spain",TV3Cat Ⓖ
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
-#EXTINF:-1 tvg-id="Canal4Tenerife.es" tvg-name="Canal 4 Tenerife" tvg-logo="https://i.imgur.com/Egymir4.png" group-title="🇪🇸 Spain",Canal 4 Tenerife
-https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8
-#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="🇪🇸 Spain",La 1 (Catalunya)
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 (Canarias)" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="🇪🇸 Spain",La 1 (Canarias)
-https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 (Catalunya)" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="🇪🇸 Spain",La 2 (Catalunya)
-https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="rtve.es" tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="🇪🇸 Spain",RTVE 24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
 # ============ 🇬🇷 Greece (32) ============
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" group-title="🇬🇷 Greece",ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
@@ -991,7 +961,39 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="NEA" tvg-logo="https://i.imgur.com/nvNW8G7.png" group-title="🇬🇷 Greece",NEA
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 
-# ============ 🇫🇷 France (21) ============
+# ============ 🇪🇸 Spain (15) ============
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="🇪🇸 Spain",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="clan.es" tvg-name="clan" tvg-logo="https://i.imgur.com/38xIfQ3.png" group-title="🇪🇸 Spain",clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-name="TVE Internacional Europe-Asia" tvg-logo="https://i.imgur.com/ow1HArj.png" group-title="🇪🇸 Spain",TVE Internacional Europe-Asia
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" group-title="🇪🇸 Spain",Paramount Network
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 tvg-id="ElPaisTV.es" tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="🇪🇸 Spain",El País
+https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id="IB3.es" tvg-name="IB3 Global Ⓨ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png" group-title="🇪🇸 Spain",IB3 Global Ⓨ
+https://www.youtube.com/c/ib3/live
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-logo="https://i.imgur.com/xBeywIA.png" group-title="🇪🇸 Spain",Canal Extremadura
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" group-title="🇪🇸 Spain",ETB1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ETB2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png" group-title="🇪🇸 Spain",ETB2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-name="TV3Cat Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/500px-TV3CAT.svg.png" group-title="🇪🇸 Spain",TV3Cat Ⓖ
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="Canal4Tenerife.es" tvg-name="Canal 4 Tenerife" tvg-logo="https://i.imgur.com/Egymir4.png" group-title="🇪🇸 Spain",Canal 4 Tenerife
+https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="🇪🇸 Spain",La 1 (Catalunya)
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 (Canarias)" tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="🇪🇸 Spain",La 1 (Canarias)
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 (Catalunya)" tvg-logo="https://i.imgur.com/DmuTwDw.png" group-title="🇪🇸 Spain",La 2 (Catalunya)
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="rtve.es" tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="🇪🇸 Spain",RTVE 24H
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+# ============ 🇫🇷 France (20) ============
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg/60px-Logo_LCP-AN_-_Public_S%C3%A9nat_%282019%29.svg.png" group-title="🇫🇷 France",LCP
 https://lcp.fr/le-live-lcp-tnt-5433
 #EXTINF:-1 tvg-id="PublicSenat.fr" tvg-name="Public Sénat" tvg-logo="https://i.imgur.com/bJOdFT1.png" group-title="🇫🇷 France",Public Sénat
@@ -1016,8 +1018,6 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 https://tv.airconnectradio.com/live.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" group-title="🇫🇷 France",France 3
 http://89.187.185.76:8080/France3/index.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_BFM_TV_%282019%29.png/60px-Logo_BFM_TV_%282019%29.png" group-title="🇫🇷 France",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'Équipe Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/500px-L%27%C3%89quipe_wordmark.svg.png" group-title="🇫🇷 France",L'Équipe Ⓨ
 https://www.youtube.com/@lequipe/live
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 العربية Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="🇫🇷 France",France 24 العربية Ⓨ
@@ -1101,7 +1101,7 @@ https://www.youtube.com/channel/UCGDQNvybfDDeGTf4GtigXaw/live
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION Ⓨ" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="🇮🇳 India",WION Ⓨ
 https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
-# ============ 🇺🇸 United States (23) ============
+# ============ 🇺🇸 United States (24) ============
 #EXTINF:-1 tvg-id="RetroTVEast.us" tvg-name="Retro TV" tvg-logo="https://i.imgur.com/PNTYOgg.png" group-title="🇺🇸 United States",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 #EXTINF:-1 tvg-id="HeartlandEastern.us" tvg-name="Heartland" tvg-logo="https://i.imgur.com/a67bbag.png" group-title="🇺🇸 United States",Heartland
@@ -1112,6 +1112,8 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="🇺🇸 United States",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="🇺🇸 United States",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="🇺🇸 United States",NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="🇺🇸 United States",NASA TV Media
@@ -1245,7 +1247,7 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" group-title="🇺🇦 Ukraine",TVA
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 
-# ============ 🇫🇮 Finland (13) ============
+# ============ 🇫🇮 Finland (14) ============
 #EXTINF:-1 tvg-id="MTV3.fi" tvg-name="MTV3" tvg-logo="https://i.imgur.com/kNbmc8n.png" group-title="🇫🇮 Finland",MTV3
 https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="Sub.fi" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" group-title="🇫🇮 Finland",MTV Sub
@@ -1254,6 +1256,8 @@ https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="TLCFinland.fi" tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" group-title="🇫🇮 Finland",TLC Finland
 https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
+#EXTINF:-1 tvg-id="StarChannel.fi" tvg-name="Star Channel Finland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/500px-Star_Channel_2020.svg.png" group-title="🇫🇮 Finland",Star Channel Finland
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="Frii.fi" tvg-name="Frii" tvg-logo="https://i.imgur.com/ljKoG9I.png" group-title="🇫🇮 Finland",Frii
 https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="IRRTV.fi" tvg-name="Alfa Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png" group-title="🇫🇮 Finland",Alfa Ⓢ
@@ -1357,21 +1361,17 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español Ⓢ" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🇩🇪 Germany",DW Español Ⓢ
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-# ============ 🇧🇾 Belarus (11) ============
+# ============ 🇧🇾 Belarus (9) ============
 #EXTINF:-1 tvg-id="" tvg-name="Первый Информацыйнный" tvg-logo="https://smotret.tv/images/pervyj-informacionnyj.webp" group-title="🇧🇾 Belarus",Первый Информацыйнный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-name="Беларусь 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/960px-Belarus_1_logo.svg.png" group-title="🇧🇾 Belarus",Беларусь 1
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ONT.by" tvg-name="ОНТ Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%9E%D0%9D%D0%A2%C2%BB.svg.png" group-title="🇧🇾 Belarus",ОНТ Ⓢ
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:ont.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Беларусь 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png" group-title="🇧🇾 Belarus",Беларусь 5
-https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STV.by" tvg-name="СТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/500px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png" group-title="🇧🇾 Belarus",СТВ
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Беларусь 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belarus_24_logo.svg/960px-Belarus_24_logo.svg.png" group-title="🇧🇾 Belarus",Беларусь 24
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus5Internet.by" tvg-name="Беларусь 5 Интернет" tvg-logo="https://i.imgur.com/rzPQ9Iz.png" group-title="🇧🇾 Belarus",Беларусь 5 Интернет
-https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="🇧🇾 Belarus",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="BelRos.ru" tvg-name="Belros Ⓢ" tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="🇧🇾 Belarus",Belros Ⓢ
@@ -1679,9 +1679,11 @@ https://stream.sundskanalen.se/live/view/index.m3u8
 #EXTINF:-1 tvg-id="LTVU.se" tvg-name="Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ" tvg-logo="https://i.imgur.com/cnLkbOT.png" group-title="🇸🇪 Sweden",Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ
 https://www.youtube.com/@LtvuSeTube/live
 
-# ============ 🇮🇱 Israel (4) ============
+# ============ 🇮🇱 Israel (5) ============
 #EXTINF:-1 tvg-id="Channel9.il" tvg-name="9 канал Ⓨ" tvg-logo="https://i.imgur.com/pttM3KQ.png" group-title="🇮🇱 Israel",9 канал Ⓨ
 https://www.youtube.com/@israel9tv/live
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/500px-Kan11Logo.svg.png" group-title="🇮🇱 Israel",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel13.il" tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/500px-Reshet13Logo2022.svg.png" group-title="🇮🇱 Israel",ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-id="Now14.il" tvg-name="ערוץ 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="🇮🇱 Israel",ערוץ 14
@@ -1701,15 +1703,19 @@ https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u
 #EXTINF:-1 tvg-id="EstrellaTV.mx" tvg-name="Estrella TV" tvg-logo="https://graph.facebook.com/EstrellaTV/picture?width=200&height=200" group-title="🇲🇽 Mexico",Estrella TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 
-# ============ 🇻🇪 Venezuela (4) ============
+# ============ 🇻🇪 Venezuela (6) ============
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="🇻🇪 Venezuela",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" group-title="🇻🇪 Venezuela",Globovisión
 http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="ValeTV.ve" tvg-name="Vale TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" group-title="🇻🇪 Venezuela",Vale TV Ⓢ
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" group-title="🇻🇪 Venezuela",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 #EXTINF:-1 tvg-id="interTV.ve" tvg-name="inter TV" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" group-title="🇻🇪 Venezuela",inter TV
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-name="AS3 Sport TV" tvg-logo="https://intervenhosting.net/imagenes/as3sporttv.jpg" group-title="🇻🇪 Venezuela",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
 # ============ 🇧🇪 Belgium (1) ============
 #EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" group-title="🇧🇪 Belgium",BX1
@@ -1759,7 +1765,7 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-name="TBN Baltia" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="🇪🇪 Estonia",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 
-# ============ 🇵🇹 Portugal (8) ============
+# ============ 🇵🇹 Portugal (7) ============
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" group-title="🇵🇹 Portugal",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="🇵🇹 Portugal",RTP3
@@ -1768,8 +1774,6 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" group-title="🇵🇹 Portugal",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADtv Ⓢ" tvg-logo="https://i.imgur.com/FvlcU3z.png" group-title="🇵🇹 Portugal",ADtv Ⓢ
-https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" group-title="🇵🇹 Portugal",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" group-title="🇵🇹 Portugal",RTP África
