@@ -2,9 +2,9 @@
 # Extra legal free channels from the Free-TV open-source project
 # (free-to-air streams published by broadcasters themselves)
 # Run refresh_extras.sh to update
-# TOTAL CHANNELS: 1501
+# TOTAL CHANNELS: 1500
 
-# ============ 🇮🇹 Italy (337) ============
+# ============ 🇮🇹 Italy (338) ============
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="🇮🇹 Italy",Rai 1 Ⓖ
@@ -243,6 +243,8 @@ https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L'Altro Corriere Tv" tvg-logo="https://i.imgur.com/dgj79J3.png" group-title="🇮🇹 Italy",L'Altro Corriere Tv
 https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Nuova Tv" tvg-logo="https://i.imgur.com/wg8FhdN.png" group-title="🇮🇹 Italy",La Nuova Tv
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tenda Tv" tvg-logo="https://i.imgur.com/XnBp0hT.png" group-title="🇮🇹 Italy",La Tenda Tv
 https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lab Tv" tvg-logo="https://i.imgur.com/OpRS6Fl.png" group-title="🇮🇹 Italy",Lab Tv
@@ -2304,6 +2306,38 @@ http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-name="Arabica TV" tvg-logo="" group-title="🇱🇧 Lebanon",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
+# ============ 🇵🇱 Poland (15) ============
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png" group-title="🇵🇱 Poland",Belsat
+https://iptv.prosto.tv/ch171/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat (576i) Ⓢ" tvg-logo="https://i.imgur.com/kSZCvah.png" group-title="🇵🇱 Poland",Crime + Investigation Polsat (576i) Ⓢ
+http://92.114.85.87:8015/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music (1080p)" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="🇵🇱 Poland",Disco Polo Music (1080p)
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam (720p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="🇵🇱 Poland",Monster Jam (720p)
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon (Poland) (576i) Ⓢ" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇵🇱 Poland",Nickelodeon (Poland) (576i) Ⓢ
+http://92.114.85.87:8013/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam (576p) Ⓢ" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="🇵🇱 Poland",Polsat JimJam (576p) Ⓢ
+http://185.227.34.179:8080/jimjam/index.m3u8
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League (720p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="🇵🇱 Poland",Strongman Champions League (720p)
+https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-name="TNA Wrestling Channel (720p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="🇵🇱 Poland",TNA Wrestling Channel (720p)
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC (576i) Ⓢ" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="🇵🇱 Poland",TVP ABC (576i) Ⓢ
+http://92.114.85.87:8002/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia (576i) Ⓢ" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="🇵🇱 Poland",TVP Historia (576i) Ⓢ
+http://92.114.85.87:8002/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura (1080p)" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="🇵🇱 Poland",TVP Kultura (1080p)
+http://92.114.85.87:8006/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="🇵🇱 Poland",TVP Polonia Ⓢ
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale (1080p)" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="🇵🇱 Poland",TVP Seriale (1080p)
+http://92.114.85.87:8019/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="Wydarzenia 24 (576i) Ⓢ" tvg-logo="https://i.imgur.com/uYpUnHP.png" group-title="🇵🇱 Poland",Wydarzenia 24 (576i) Ⓢ
+http://92.114.85.87:8016/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV (576i) Ⓢ" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="🇵🇱 Poland",Zoom TV (576i) Ⓢ
+http://92.114.85.87:8001/play/a00y/index.m3u8
+
 # ============ 🇨🇦 Canada (14) ============
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://i.imgur.com/b8W3Aah.png" group-title="🇨🇦 Canada",NTV
 http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012
@@ -2334,36 +2368,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalNews.ca" tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="🇨🇦 Canada",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-# ============ 🇵🇱 Poland (14) ============
-#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png" group-title="🇵🇱 Poland",Belsat
-https://iptv.prosto.tv/ch171/index.m3u8
-#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music (1080p)" tvg-logo="https://i.imgur.com/ZZbuTv7.png" group-title="🇵🇱 Poland",Disco Polo Music (1080p)
-http://185.227.34.179:8080/disco-polo-music/index.m3u8
-#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam (720p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="🇵🇱 Poland",Monster Jam (720p)
-https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon (Poland) (576i) Ⓢ" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇵🇱 Poland",Nickelodeon (Poland) (576i) Ⓢ
-http://92.114.85.87:8013/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam (576p) Ⓢ" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="🇵🇱 Poland",Polsat JimJam (576p) Ⓢ
-http://185.227.34.179:8080/jimjam/index.m3u8
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League (720p)" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/30ccc088-dca7-4458-ad5a-328fef06e1ca-width200-quality90.png" group-title="🇵🇱 Poland",Strongman Champions League (720p)
-https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-name="TNA Wrestling Channel (720p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="🇵🇱 Poland",TNA Wrestling Channel (720p)
-https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC (576i) Ⓢ" tvg-logo="https://i.imgur.com/wP2mpfM.png" group-title="🇵🇱 Poland",TVP ABC (576i) Ⓢ
-http://92.114.85.87:8002/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia (576i) Ⓢ" tvg-logo="https://i.imgur.com/Bc4QZiy.png" group-title="🇵🇱 Poland",TVP Historia (576i) Ⓢ
-http://92.114.85.87:8002/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura (1080p)" tvg-logo="https://i.imgur.com/JU858Es.png" group-title="🇵🇱 Poland",TVP Kultura (1080p)
-http://92.114.85.87:8006/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="🇵🇱 Poland",TVP Polonia Ⓢ
-https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale (1080p)" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="🇵🇱 Poland",TVP Seriale (1080p)
-http://92.114.85.87:8019/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="Wydarzenia 24 (576i) Ⓢ" tvg-logo="https://i.imgur.com/uYpUnHP.png" group-title="🇵🇱 Poland",Wydarzenia 24 (576i) Ⓢ
-http://92.114.85.87:8016/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV (576i) Ⓢ" tvg-logo="https://i.imgur.com/UtZM4zm.png" group-title="🇵🇱 Poland",Zoom TV (576i) Ⓢ
-http://92.114.85.87:8001/play/a00y/index.m3u8
-
 # ============ 🇶🇦 Qatar (13) ============
 #EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-name="Qatar Television" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="🇶🇦 Qatar",Qatar Television
 https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
@@ -2391,32 +2395,6 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="🇶🇦 Qatar",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-
-# ============ 🇭🇷 Croatia (12) ============
-#EXTINF:-1 tvg-id="RTLCroatia.hr" tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" group-title="🇭🇷 Croatia",RTL
-https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL2Croatia.hr" tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" group-title="🇭🇷 Croatia",RTL 2
-https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-id="SportskaTV.hr" tvg-name="Sportska televizija Ⓖ" tvg-logo="https://i.imgur.com/xdxjcVh.png" group-title="🇭🇷 Croatia",Sportska televizija Ⓖ
-https://stream.agatin.hr:3087/live/sptvlive.m3u8
-#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" group-title="🇭🇷 Croatia",RTL Kockica
-https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="PlavaVinkovacka.hr" tvg-name="Plava Vinkovačka" tvg-logo="https://i.imgur.com/WJJNtQ3.jpg" group-title="🇭🇷 Croatia",Plava Vinkovačka
-https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
-#EXTINF:-1 tvg-id="OSTV.hr" tvg-name="Osječka televizija (OSTV) Ⓢ" tvg-logo="https://i.imgur.com/o9JgEyG.png" group-title="🇭🇷 Croatia",Osječka televizija (OSTV) Ⓢ
-https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
-#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png" group-title="🇭🇷 Croatia",Z1 Ⓨ
-https://www.youtube.com/@z1televizija/live
-#EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="Kanal Ri" tvg-logo="https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png" group-title="🇭🇷 Croatia",Kanal Ri
-https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
-#EXTINF:-1 tvg-id="TVDalmacija.hr" tvg-name="TV Dalmacija Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg" group-title="🇭🇷 Croatia",TV Dalmacija Ⓨ
-https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live
-#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="Televizija Zapad" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png" group-title="🇭🇷 Croatia",Televizija Zapad
-http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-name="Al Jazeera Balkans" tvg-logo="https://i.imgur.com/Z1FB6wl.png" group-title="🇭🇷 Croatia",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="N1Croatia.hr" tvg-name="N1 Hrvatska Ⓨ" tvg-logo="https://i.imgur.com/qcD1OOZ.png" group-title="🇭🇷 Croatia",N1 Hrvatska Ⓨ
-https://www.youtube.com/@N1_Hrvatska/live
 
 # ============ 🇹🇼 Taiwan (12) ============
 #EXTINF:-1 tvg-id="CTV.tw" tvg-name="CTV (中視) Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="🇹🇼 Taiwan",CTV (中視) Ⓨ
@@ -2491,6 +2469,30 @@ https://live.postv.media/stream/index.m3u8
 https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
 #EXTINF:-1 tvg-id="EuroNewsGeorgia.ge" tvg-name="Euronews Georgia Ⓖ" tvg-logo="https://i.imgur.com/VNJ4soR.png" group-title="🇬🇪 Georgia",Euronews Georgia Ⓖ
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+
+# ============ 🇭🇷 Croatia (11) ============
+#EXTINF:-1 tvg-id="RTLCroatia.hr" tvg-name="RTL" tvg-logo="https://i.imgur.com/zAjr6pO.png" group-title="🇭🇷 Croatia",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png" group-title="🇭🇷 Croatia",HRT 3
+https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4 Ⓨ" tvg-logo="https://i.imgur.com/VcNrY0m.png" group-title="🇭🇷 Croatia",HRT 4 Ⓨ
+https://www.youtube.com/@HRT_vijesti/live
+#EXTINF:-1 tvg-id="RTL2Croatia.hr" tvg-name="RTL 2" tvg-logo="https://i.imgur.com/dQLaylJ.png" group-title="🇭🇷 Croatia",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1 tvg-id="SportskaTV.hr" tvg-name="Sportska televizija Ⓖ" tvg-logo="https://i.imgur.com/xdxjcVh.png" group-title="🇭🇷 Croatia",Sportska televizija Ⓖ
+https://stream.agatin.hr:3087/live/sptvlive.m3u8
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica" tvg-logo="https://i.imgur.com/BiSVmRa.png" group-title="🇭🇷 Croatia",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1 tvg-id="PlavaVinkovacka.hr" tvg-name="Plava Vinkovačka" tvg-logo="https://i.imgur.com/WJJNtQ3.jpg" group-title="🇭🇷 Croatia",Plava Vinkovačka
+https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="OSTV.hr" tvg-name="Osječka televizija (OSTV) Ⓢ" tvg-logo="https://i.imgur.com/o9JgEyG.png" group-title="🇭🇷 Croatia",Osječka televizija (OSTV) Ⓢ
+https://live.osjecka.com/live/index.m3u8
+#EXTINF:-1 tvg-id="KanalRi.hr" tvg-name="Kanal Ri" tvg-logo="https://i.imgur.com/aSPMh0o.png" group-title="🇭🇷 Croatia",Kanal Ri
+https://live.kanalri-transfer.org/kanalri/main_stream.m3u8
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-logo="https://i.imgur.com/4R4fhbd.png" group-title="🇭🇷 Croatia",Libertas TV
+https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8
+#EXTINF:-1 tvg-id="N1.hr" tvg-name="N1 Hrvatska" tvg-logo="https://i.imgur.com/qcD1OOZ.png" group-title="🇭🇷 Croatia",N1 Hrvatska
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
 
 # ============ 🇰🇷 South Korea (11) ============
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-name="KBS 1TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/500px-KBS_1_logo.svg.png" group-title="🇰🇷 South Korea",KBS 1TV
@@ -2788,22 +2790,6 @@ https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
 #EXTINF:-1 tvg-id="TVApollon.al" tvg-name="TV Apollon Ⓢ" tvg-logo="https://i.imgur.com/gUz2AjM.png" group-title="🇦🇱 Albania",TV Apollon Ⓢ
 https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 
-# ============ 🇧🇦 Bosnia (7) ============
-#EXTINF:-1 tvg-id="BHT1.ba" tvg-name="BHT 1" tvg-logo="https://i.imgur.com/LEwlEEE.png" group-title="🇧🇦 Bosnia",BHT 1
-https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 tvg-id="FederalnaTV.ba" tvg-name="Federalna televizija (FTV) Ⓢ" tvg-logo="https://i.imgur.com/Jpvs4u3.png" group-title="🇧🇦 Bosnia",Federalna televizija (FTV) Ⓢ
-http://94.250.2.6:7374/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="🇧🇦 Bosnia",Televizija Republike Srpske (RTRS)
-https://parh.rtrs.tv/tv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="🇧🇦 Bosnia",N1 Bosna i Hercegovina
-https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="BNTV.ba" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="🇧🇦 Bosnia",RTV BN
-https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:-1 tvg-id="RTVUSK.ba" tvg-name="RTV USK Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png" group-title="🇧🇦 Bosnia",RTV USK Ⓨ
-https://www.youtube.com/@rtvusk/live
-#EXTINF:-1 tvg-id="RTVBPK.ba" tvg-name="TV BPK Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" group-title="🇧🇦 Bosnia",TV BPK Ⓢ
-http://94.250.2.6:7374/play/a02u/index.m3u8
-
 # ============ 🇨🇾 Cyprus (7) ============
 #EXTINF:-1 tvg-id="RIK1.cy" tvg-name="RIK 1 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/500px-Logo_RIK_1_2017.svg.png" group-title="🇨🇾 Cyprus",RIK 1 Ⓢ
 http://213.7.216.229:8888/udp/239.23.0.1:1234
@@ -2923,6 +2909,18 @@ https://sktv-forwarders.7m.pl/get.php?x=TTT
 https://sktv-forwarders.7m.pl/get.php?x=IBN
 #EXTINF:-1 tvg-id="" tvg-name="Trinity TV" tvg-logo="https://i.imgur.com/prgVynR.jpg" group-title="🇹🇹 Trinidad",Trinity TV
 https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV
+
+# ============ 🇧🇦 Bosnia (5) ============
+#EXTINF:-1 tvg-id="BHT1.ba" tvg-name="BHT 1 Ⓖ" tvg-logo="https://i.imgur.com/LEwlEEE.png" group-title="🇧🇦 Bosnia",BHT 1 Ⓖ
+https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://i.imgur.com/2Sgs5gM.png" group-title="🇧🇦 Bosnia",Televizija Republike Srpske (RTRS)
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" group-title="🇧🇦 Bosnia",N1 Bosna i Hercegovina
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
+#EXTINF:-1 tvg-id="BNTV.ba" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="🇧🇦 Bosnia",RTV BN
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="SuperTV" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="🇧🇦 Bosnia",SuperTV
+https://live.probaj.net/live/mirtv/index.m3u8
 
 # ============ 🇮🇩 Indonesia (5) ============
 #EXTINF:-1 tvg-id="CNBCIndonesia.am" tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" group-title="🇮🇩 Indonesia",CNBC Indonesia
@@ -3099,12 +3097,12 @@ https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
 https://www.youtube.com/channel/UChlf9r1rzhJ_SVM_WCKFL1g/live
 
 # ============ 🇷🇸 Serbia (3) ============
-#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" tvg-logo="https://i.imgur.com/gxuGB4J.png" group-title="🇷🇸 Serbia",RTS 3
-https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 #EXTINF:-1 tvg-id="RedTV.rs" tvg-name="Red TV" tvg-logo="https://i.imgur.com/cpN7NrL.png" group-title="🇷🇸 Serbia",Red TV
 https://edge8.pink.rs/redtv/index.m3u8
-#EXTINF:-1 tvg-id="InformerTV.rs" tvg-name="Informer TV" tvg-logo="https://i.imgur.com/9wdEHRf.png" group-title="🇷🇸 Serbia",Informer TV
-https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 tvg-id="BlicTV.rs" tvg-name="Blic TV" tvg-logo="https://i.imgur.com/XM5Qz1i.png" group-title="🇷🇸 Serbia",Blic TV
+https://edge-rs-06.maksnet.tv/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJ TV" tvg-logo="https://i.imgur.com/btvyrzr.png" group-title="🇷🇸 Serbia",IDJ TV
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
 
 # ============ 🇧🇬 Bulgaria (2) ============
 #EXTINF:-1 tvg-id="EuroNewsBulgaria.bg" tvg-name="Euronews Bulgaria Ⓨ" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="🇧🇬 Bulgaria",Euronews Bulgaria Ⓨ
